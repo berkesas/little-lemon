@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Karla-Bold.ttf",
+      "sha1": "2956abf47f4ab6e5e866f05c2e60899f62960697"
+    },
+    {
+      "path": "assets/fonts/Karla-Medium.ttf",
+      "sha1": "a5a279eca799b55b53c7bf39f59d2cea9ac8338e"
+    },
+    {
+      "path": "assets/fonts/Karla-Regular.ttf",
+      "sha1": "cc9e3e85133b79c168b0599333a8f880dd6f3a88"
+    },
+    {
+      "path": "assets/fonts/MarkaziText-Bold.ttf",
+      "sha1": "6d6fe06cf610000851718f4a8797e481d7ce69c6"
+    },
+    {
+      "path": "assets/fonts/MarkaziText-Medium.ttf",
+      "sha1": "fef01787d863f54115ad99a72813217a61d6efef"
+    },
+    {
+      "path": "assets/fonts/MarkaziText-Regular.ttf",
+      "sha1": "fa2cb7a515fe0c9e947bf5d925cb72bf7dff2dca"
+    }
+  ]
+}
