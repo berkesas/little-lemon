@@ -40,7 +40,6 @@ function Item({ data }): JSX.Element {
                 </View>
                 <Image style={styles.itemPicture} source={{ uri: "https://api.ylymbilim.com/capstone/img/" + data.image }} />
             </View>
-            <View style={styles.borderDiv}></View>
         </View>)
 };
 
@@ -166,6 +165,7 @@ export default function Home({ navigation }): JSX.Element {
                 renderItem={({ item }) => <Item data={item} />}
                 keyExtractor={item => item.name}
                 style={styles.menuContainer}
+                ItemSeparatorComponent={()=><View style={styles.borderDiv}></View>}
             />
         </View>
     );
